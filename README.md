@@ -1,2 +1,2 @@
 # dialogtext
-For patomation
+For potatomation
